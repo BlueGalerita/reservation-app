@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 import { NavbarComponent } from './common/navbar/navbar.component';
-import { ProductListComponent } from './common/product-list/product-list.component';
+import { ProductListComponent } from './product/product-list/product-list.component';
 
 @Component({
   selector: 'app-root',
